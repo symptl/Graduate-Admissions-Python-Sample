@@ -1,0 +1,23 @@
+Sort Execution Times (seconds)
+
+Selection Sort execution time: 251.155772500
+Quick Sort execution time: 0.210101700
+Merge Sort execution time: 0.332275600
+AVL Tree creation time: 1.107153500
+
+
+Search Execution Times (seconds)
+
+Linear Search (Unsorted Array) execution time: 0.052949400
+Linear Search (Linked List) execution time: 0.042384400
+Linear Search (Sorted Array) execution time: 0.059298000
+Binary Search (Sorted Array) execution time: 0.000061100
+AVL Tree Search (Binary equivalent) execution time: 0.000077000
+
+
+Variable Sizes of Different Data Structures (kilobytes)
+
+Unsorted Array Size: 800.984
+Sorted Array Size: 800.064
+AVL Tree Size: 6400.08
+Linked List Size: 4800.048

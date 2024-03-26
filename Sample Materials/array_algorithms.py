@@ -1,4 +1,4 @@
-# Implementation of all algorithms in this demo
+# Implementation of all array algorithms in this demo
 # Big O notation is included for each, next to the titles
 
 # LINEAR SEARCH - O(n)

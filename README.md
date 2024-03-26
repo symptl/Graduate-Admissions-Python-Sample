@@ -12,7 +12,9 @@ included in this demo, as well as some alternative data structures to hold/manip
 accomplish similar tasks.
 
 "main.py" drives the entire demo as far as actual array manipulation, repackaging into different data structures, and further
-method execution on those structures. It also gathers the timing and variable size data that is output at the end.
+method execution on those structures. It also gathers the timing and variable size data that is output at the end. The current
+"results.txt" and "randomized_list_int.txt" files are the official demo inputs/outputs but feel free to try it out for yourself
+according to the instructions below or to open up the scripts and get a closer look at the implementation.
 
 
 Requirements: The latest version of Python (scripts have only been tested on Windows), a reasonably powerful computer (eg   

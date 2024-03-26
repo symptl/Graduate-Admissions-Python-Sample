@@ -17,9 +17,9 @@ method execution on those structures. It also gathers the timing and variable si
 according to the instructions below or to open up the scripts and get a closer look at the implementation.
 
 
-Requirements: The latest version of Python (scripts have only been tested on Windows), a reasonably powerful computer (eg   
-              Chromebooks aren't recommended)
+Requirements: The latest version of Python (scripts have only been tested on Windows), a reasonably powerful computer (eg Chromebooks aren't recommended)
 
+Note: All scripts and folders relevant to the demo can be found under the "Sample Materials" folder.
 
 Instructions:
 

@@ -20,6 +20,7 @@ according to the instructions below or to open up the scripts and get a closer l
 Requirements: The latest version of Python (scripts have only been tested on Windows), a reasonably powerful computer (eg   
               Chromebooks aren't recommended)
 
+Note: All scripts and folders relevant to the demo can be found under the "Sample Materials" folder.
 
 Instructions:
 

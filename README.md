@@ -1,8 +1,10 @@
 # Graduate-Admissions-Python-Sample
 
+By: Shyam Patel
 About: 
 
-This code is intended as a demonstration of simple object-oriented concepts applied to basic data structures and algorithms.
+This code is intended as a demonstration of simple object-oriented concepts applied to some basic data structures and algorithms.
+though it is not a comprehensive review of my DSA knowledge.
 
 An array of integers spanning the range from 0-100,000 in increments of 1, has been randomly shuffled as a simulated "dataset".
 The posted "dataset" is the random iteration that corresponds to the results posted alongside it. Results can vary with each

@@ -153,4 +153,5 @@ file = open("Results/results.txt", "w")
 file.write(results)
 file.close()
 
-
+# Isolated input command allows user to see any printed output before closing window
+complete = input("Press Enter to complete execution.")

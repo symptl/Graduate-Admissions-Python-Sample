@@ -7,10 +7,10 @@ About:
 This code is intended as a demonstration of simple object-oriented concepts applied to some basic data structures and algorithms.
 though it is not a comprehensive review of my DSA knowledge.
 
-An array of integers spanning the range from 0-100,000 in increments of 1, has been randomly shuffled as a simulated "dataset".
+An array of integers, spanning the range from 0-100,000 in increments of 1, has been randomly shuffled as a simulated "dataset".
 The posted "dataset" is the random iteration that corresponds to the results posted alongside it. Results can vary with each
 execution of the dataset generation code (initial_list_generation.py) as well as the actual dataset manipulation code (main.py),
-but the approximate order of mangitude should remain the same across attempts. Several array sorting and searching algorithms are
+but the approximate order of magnitude should remain the same across attempts. Several array sorting and searching algorithms are
 included in this demo, as well as some alternative data structures to hold/manipulate the initial data with their own methods to
 accomplish similar tasks.
 
